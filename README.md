@@ -28,4 +28,4 @@ This is a Java-based calculator application featuring a graphical user interface
 ##  How to Run
  **Clone the repository:**
    ```bash
-   git clone https://github.com/Nishu0406/java-calculator-swing.git
+  https://github.com/Nishu0406/Calculator.git
